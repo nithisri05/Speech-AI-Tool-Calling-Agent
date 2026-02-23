@@ -1,4 +1,4 @@
-# peech-to-Text AI Agent
+# Speech-to-Text AI Agent
 
 This repository contains:
 
